@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* banner */
+#banner{width: 100%; overflow: hidden;}
+#banner img{width: 100%; margin-top: 53px;}
+
+
+/* content1 */
+#content1{width: 100%; overflow: hidden; margin-top: 20px; margin-bottom: 30px;}
+#content1 h2{background: #f15a22; color: #fff; font-size: 15px; font-weight: normal; padding: 5px 15px; box-sizing: border-box;}
+
+#content1 img{width: 80%; padding: 30px 20px;}
+#content1 p{font-size: 14px; line-height: 1.5; margin-left: 5px;}
+
+#content1 h2:nth-child(4){margin-top: 30px;}
+
+#content1 img:nth-child(5){width: 35%;}
+
+#content1 h2:nth-child(7){margin-top: 30px;}
+
+#content1 img:nth-child(8){width: 90%;}
+#content1 ul{list-style:decimal; margin-left: 6%; line-height: 1.8;}
+#content1 li{font-size: 14px;}

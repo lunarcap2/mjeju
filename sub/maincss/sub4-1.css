@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* banner */
+#banner{width: 100%; overflow: hidden;}
+#banner img{width: 100%; margin-top: 53px;}
+
+
+/* content1 */
+#content1{width: 100%; overflow: hidden; margin-top: 20px;}
+#content1 h2{background: #f15a22; color: #fff; font-size: 15px; font-weight: normal; padding: 5px 15px; box-sizing: border-box;}
+
+#content1 img{width: 70%;}
+#content1 > div {width: 100%; text-align: center; margin-bottom: 10px; border-bottom: 1px solid #ccc;}
+#content1 > div:last-child{margin-right: 0;}
+#content1 h3{font-size: 15px; padding: 5px;}
+#content1 p{font-size: 14px; padding: 5px;}
+#content1 a{background: #f15a22; color: #fff; display: block; width: 69%; margin: 0 auto; padding: 5px; border-radius: 4px; margin-bottom: 10px;}
+#content1 > div:nth-child(2){margin-top: 20px;}
+
+
+
+/* content2 */
+#content2{width: 100%; overflow: hidden;margin-top: 20px; margin-bottom: 50px;}
+
+#content2 h2{background: #f15a22; color: #fff; font-size: 15px; font-weight: normal; padding: 5px 15px; box-sizing: border-box;}
+#content2>h3{font-weight: normal; padding:4%; margin-bottom: 20px;}
+
+#content2 > div {float: left; width: 32.638888%; margin-right: 0.69%; border-radius: 20px; text-align: center; overflow: hidden; margin-bottom: 5%; margin-top: 20px;}
+.cont2_3, .cont2_6{margin-right: 0;}
+.cont2_6{position: relative; top: 5px;}
+#content2 img{width: 60%; margin-bottom: 10px;}
+#content2 a{color: #000; font-size: 13px;}

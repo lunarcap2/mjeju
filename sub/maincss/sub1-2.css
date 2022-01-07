@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* banner */
+#banner{width: 100%; overflow: hidden;}
+#banner img{width: 100%;}
+
+
+/* content1 */
+#content1{width: 100%; overflow: hidden; margin-top: 20px;}
+#content1 h2{background: #f15a22; color: #fff; font-size: 15px; font-weight: normal; padding: 5px 15px; box-sizing: border-box;}
+
+#content1 ul{list-style:disc; padding: 15px 30px; box-sizing: border-box;}
+#content1 li{line-height:1.7; font-size: 13px;}
+
+
+/* content2 */
+#content2{width: 100%; overflow: hidden;margin-top: 20px; background: #e6e2df; position: relative; overflow: hidden;}
+
+#content2 > div{float: left;  width: 49.5%; margin-right: 1%; height: 200px;}
+
+#content2 > div:last-child{margin-right: 0;}
+#content2 h2{background: #f15a22; color: #fff; font-size: 15px; font-weight: normal; padding: 5px 15px; box-sizing: border-box;}
+#content2 > p {padding: 15px 30px;}
+#content2 .cont2_2 img{width:150px;  margin-left: 8%;}
+
+.cont2_1 p{text-align: center; margin-left: 30%;}
+.cont2_1 p:first-child{margin-top: 50px; margin-bottom: 20px;}
+
+
+
+#content2 a{background: #f15a22; color: #fff; display: block; width:80%; padding: 10px; box-sizing: border-box;}
